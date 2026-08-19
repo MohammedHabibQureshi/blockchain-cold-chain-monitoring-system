@@ -1,0 +1,33 @@
+# Dependencies
+**/node_modules/
+
+# Environment files and local secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Build and tool output
+**/dist/
+**/dist-ssr/
+**/artifacts/
+**/cache/
+**/coverage/
+**/types/
+**/bundle/
+**/.hardhat/
+
+# Logs and local reports
+*.log
+**/logs/
+**/.gas-snapshot
+
+# Editor and operating-system files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local deployment and generated state
+**/deployment/local*
+**/deployment/*.local.json

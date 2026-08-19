@@ -1,0 +1,9 @@
+{
+  "network": "ganache",
+  "rpcUrl": "http://127.0.0.1:7545",
+  "networkId": 5777,
+  "chainId": 1337,
+  "contractName": "ColdChain",
+  "contractAddress": "0x5d880CFB02306eb684e0D638fCcD9b59544253cC",
+  "admin": "0x6733120A9d49406086771C51DCb31483fF9B91Cd"
+}
