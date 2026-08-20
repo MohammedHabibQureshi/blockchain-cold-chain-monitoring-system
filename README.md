@@ -319,8 +319,6 @@ simultaneously.
 
 # 🖥️ Screenshots
 
-> Place project screenshots inside `docs/screenshots/` using the
-> filenames below, or change the paths to match your actual screenshots.
 
 ## Admin Dashboard
 
@@ -498,25 +496,6 @@ blockchain-cold-chain-monitoring-system/
 ├── scripts/
 │   └── deployment/
 │
-├── test/
-│
-├── docs/
-│   ├── screenshots/
-│   │   ├── admin-dashboard.png
-│   │   ├── manufacturer-dashboard.png
-│   │   ├── transporter-dashboard.png
-│   │   ├── warehouse-dashboard.png
-│   │   ├── distributor-dashboard.png
-│   │   ├── hospital-dashboard.png
-│   │   ├── shipment-details.png
-│   │   ├── custody-timeline.png
-│   │   └── violation-history.png
-│   │
-│   ├── videos/
-│   │   └── cold-chain-monitoring-demo.mp4
-│   │
-│   └── presentation/
-│       └── Blockchain-Cold-Chain-Monitoring-System.pptx
 │
 ├── .env.example
 ├── .gitignore
