@@ -324,7 +324,8 @@ simultaneously.
 
 ## Admin Dashboard
 
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 203929" src="https://github.com/user-attachments/assets/5250749c-97be-4b13-82e1-a8f7bc0ceb16" />
+
 
 The Admin dashboard provides system-wide visibility into registered
 participants and shipment activity.
@@ -333,7 +334,8 @@ participants and shipment activity.
 
 ## Manufacturer Dashboard
 
-![Manufacturer Dashboard](docs/screenshots/manufacturer-dashboard.png)
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 203952" src="https://github.com/user-attachments/assets/75a21e60-c6be-453d-805f-201189568d8a" />
+
 
 The Manufacturer dashboard provides shipment creation, shipment
 monitoring, custody transfer, cancellation, and violation visibility.
@@ -342,7 +344,8 @@ monitoring, custody transfer, cancellation, and violation visibility.
 
 ## Transporter Dashboard
 
-![Transporter Dashboard](docs/screenshots/transporter-dashboard.png)
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 204008" src="https://github.com/user-attachments/assets/749c5ab5-0bfd-4753-b17d-dd2cd437d375" />
+
 
 The Transporter dashboard manages incoming shipments, acceptance, active
 custody, transfer, cancellation, and violation history.
@@ -351,7 +354,8 @@ custody, transfer, cancellation, and violation history.
 
 ## Warehouse Dashboard
 
-![Warehouse Dashboard](docs/screenshots/warehouse-dashboard.png)
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 204022" src="https://github.com/user-attachments/assets/d190e190-c171-49a5-8717-e3694c98c4a0" />
+
 
 The Warehouse dashboard manages shipment acceptance, storage custody,
 transfer, cancellation, and monitoring.
@@ -360,7 +364,8 @@ transfer, cancellation, and monitoring.
 
 ## Distributor Dashboard
 
-![Distributor Dashboard](docs/screenshots/distributor-dashboard.png)
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 204035" src="https://github.com/user-attachments/assets/70a8e6c6-b484-42e5-92bd-e128877ed173" />
+
 
 The Distributor dashboard manages incoming shipments, custody
 acceptance, transfer to hospitals, cancellation, and shipment
@@ -370,7 +375,8 @@ monitoring.
 
 ## Hospital Dashboard
 
-![Hospital Dashboard](docs/screenshots/hospital-dashboard.png)
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 204049" src="https://github.com/user-attachments/assets/e571a5c5-eb16-4c6c-98f6-c69c143ca338" />
+
 
 The Hospital dashboard manages final shipment acceptance, custody
 monitoring, completion, and violation history.
@@ -379,7 +385,8 @@ monitoring, completion, and violation history.
 
 ## Shipment Details
 
-![Shipment Details](docs/screenshots/shipment-details.png)
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 204235" src="https://github.com/user-attachments/assets/6e811fc8-d969-493a-8a0f-369057a340f5" />
+
 
 Shipment details provide the shipment status, current custodian,
 temperature information, violation history, and custody timeline.
@@ -388,7 +395,8 @@ temperature information, violation history, and custody timeline.
 
 ## Custody Timeline
 
-![Custody Timeline](docs/screenshots/custody-timeline.png)
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 204308" src="https://github.com/user-attachments/assets/f2bf4667-a483-4eba-809a-a628df6db49e" />
+
 
 The custody timeline represents the movement of a shipment through the
 supply chain.
@@ -397,7 +405,8 @@ supply chain.
 
 ## Violation History
 
-![Violation History](docs/screenshots/violation-history.png)
+<img width="1920" height="1020" alt="Screenshot 2026-08-20 204326" src="https://github.com/user-attachments/assets/49f21179-9ca1-4955-93ef-26737382cfd4" />
+
 
 Temperature violations are displayed with temperature, shipment ID,
 reason, timestamp, and data hash.
@@ -408,31 +417,14 @@ reason, timestamp, and data hash.
 
 The complete project demonstration video should be stored at:
 
-`docs/videos/cold-chain-monitoring-demo.mp4`
 
 ### Watch the Project Demonstration
 
 [▶️ Open Project Demonstration
-Video](docs/videos/cold-chain-monitoring-demo.mp4)
+Video}
+(https://github.com/user-attachments/assets/c0cbde3b-14ae-4eba-bb7b-9f631065e744)
 
-The demonstration should cover:
 
-1.  Admin login / wallet connection
-2.  User registration
-3.  Manufacturer shipment creation
-4.  Manufacturer → Transporter transfer
-5.  Transporter acceptance
-6.  Transporter → Warehouse transfer
-7.  Warehouse acceptance
-8.  Warehouse → Distributor transfer
-9.  Distributor acceptance
-10. Distributor → Hospital transfer
-11. Hospital acceptance
-12. Temperature violation display
-13. Cancellation with reason
-14. Custody timeline
-15. Hospital shipment completion
-16. Admin final audit
 
 ------------------------------------------------------------------------
 
@@ -445,33 +437,8 @@ The project presentation should be stored at:
 ### 📥 Project Presentation
 
 [📊 Open / Download Project
-PPT](docs/presentation/Blockchain-Cold-Chain-Monitoring-System.pptx)
+PPT](https://github.com/user-attachments/files/31271288/Blockchain_Cold_Chain_Monitoring.pptx)
 
-The presentation should cover:
-
--   Problem Statement
--   Motivation
--   Objectives
--   Existing System
--   Proposed System
--   Research Gap
--   System Architecture
--   Blockchain Architecture
--   Smart Contract Design
--   User Roles
--   Shipment Workflow
--   Custody Transfer
--   Temperature Monitoring
--   Violation Detection
--   Cancellation Workflow
--   Completion Workflow
--   Technology Stack
--   Implementation
--   Experimental Setup
--   Results
--   Limitations
--   Future Scope
--   Conclusion
 
 ------------------------------------------------------------------------
 
