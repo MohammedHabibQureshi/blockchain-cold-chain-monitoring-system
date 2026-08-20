@@ -419,7 +419,7 @@ reason, timestamp, and data hash.
 ### Watch the Project Demonstration
 
 [▶️ Open Project Demonstration
-Video}
+Video]
 https://github.com/user-attachments/assets/c0cbde3b-14ae-4eba-bb7b-9f631065e744
 
 
