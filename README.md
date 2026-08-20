@@ -415,14 +415,12 @@ reason, timestamp, and data hash.
 
 # 🎥 Project Demonstration Video
 
-The complete project demonstration video should be stored at:
-
 
 ### Watch the Project Demonstration
 
 [▶️ Open Project Demonstration
 Video}
-(https://github.com/user-attachments/assets/c0cbde3b-14ae-4eba-bb7b-9f631065e744)
+https://github.com/user-attachments/assets/c0cbde3b-14ae-4eba-bb7b-9f631065e744
 
 
 
@@ -430,9 +428,6 @@ Video}
 
 # 📊 Project Presentation / PPT
 
-The project presentation should be stored at:
-
-`docs/presentation/Blockchain-Cold-Chain-Monitoring-System.pptx`
 
 ### 📥 Project Presentation
 
